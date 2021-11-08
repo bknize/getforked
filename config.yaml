@@ -19,7 +19,7 @@ imaging:
 params:
   description: A microblog for family recipes.
   homeMetaContent: A microblog for family recipes.
-  footer: Recipes aren't copywrite at all, go make them.
+  footer: Recipes aren't copyright at all, go make them.
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
