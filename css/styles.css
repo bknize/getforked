@@ -1,17 +1,17 @@
 /* Fonts */
 @font-face {
     font-family: 'MarckScript';
-    src: url('https://benknize.com/getforked/css/fonts/MarckScript-Regular.ttf') format('truetype');
+    src: url('https://getforked.recipes/css/fonts/MarckScript-Regular.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Forum';
-    src: url('https://benknize.com/getforked/css/fonts/Forum-Regular.ttf') format('truetype');
+    src: url('https://getforked.recipes/css/fonts/Forum-Regular.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Work Sans';
-    src: url('https://benknize.com/getforked/css/fonts/WorkSans-Light.ttf') format('truetype'),
-        url('https://benknize.com/getforked/css/fonts/WorkSans-LightItalic.ttf') format('truetype'),
-        url('https://benknize.com/getforked/css/fonts/WorkSans-Medium.ttf') format('truetype');
+    src: url('https://getforked.recipes/css/fonts/WorkSans-Light.ttf') format('truetype'),
+        url('https://getforked.recipes/css/fonts/WorkSans-LightItalic.ttf') format('truetype'),
+        url('https://getforked.recipes/css/fonts/WorkSans-Medium.ttf') format('truetype');
 }
 *,
 *::before,
@@ -525,7 +525,7 @@ caption {
 }
 .note.warning {
     border-left: 0;
-    background-image: url(https://benknize.com/getforked/css/images/stripe.svg);
+    background-image: url(https://getforked.recipes/css/images/stripe.svg);
     background-size: 0.5rem auto;
     background-repeat: repeat-y;
 }
@@ -544,7 +544,7 @@ caption {
     width: 1rem;
     height: 1rem;
     margin-right: 0.25rem;
-    background-image: url(https://benknize.com/getforked/css/images/icon-tick.svg);
+    background-image: url(https://getforked.recipes/css/images/icon-tick.svg);
     background-size: 100% auto;
     position: absolute;
     left: -1.25rem;
