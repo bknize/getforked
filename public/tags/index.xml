@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cupper</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Cupper</description>
+    <title>Tags on Get Forked</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Get Forked</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Featured</title>
+      <link>http://localhost:1313/tags/featured/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/featured/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kasley</title>
+      <link>http://localhost:1313/tags/kasley/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kasley/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rooney</title>
+      <link>http://localhost:1313/tags/rooney/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rooney/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dessert</title>
+      <link>http://localhost:1313/tags/dessert/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dessert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Knize</title>
+      <link>http://localhost:1313/tags/knize/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/knize/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thanksgiving</title>
+      <link>http://localhost:1313/tags/thanksgiving/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/thanksgiving/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Volrath</title>
+      <link>http://localhost:1313/tags/volrath/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/volrath/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -2,12 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2021-11-05T14:28:15-05:00</lastmod>
+    <loc>http://localhost:1313/tags/featured/</loc>
+    <lastmod>2022-09-23T19:26:42-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2021-11-05T14:28:15-05:00</lastmod>
+    <loc>http://localhost:1313/tags/kasley/</loc>
+    <lastmod>2022-09-23T19:26:42-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://localhost:1313/kasley-family-dumplings/</loc>
+    <lastmod>2022-09-23T19:26:42-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mary-rooneys-irish-soda-bread/</loc>
+    <lastmod>2022-09-23T19:26:42-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rooney/</loc>
+    <lastmod>2022-09-23T19:26:42-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2022-09-23T19:26:42-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dessert/</loc>
+    <lastmod>2021-11-07T21:20:08-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/knize/</loc>
+    <lastmod>2021-11-07T21:20:08-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knize-apple-pie/</loc>
+    <lastmod>2021-11-07T21:20:08-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knize-original-dessert-dot-com/</loc>
+    <lastmod>2021-11-07T21:20:08-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/thanksgiving/</loc>
+    <lastmod>2021-11-07T21:20:08-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/volrath/</loc>
+    <lastmod>2021-11-07T21:20:08-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/volrath-thanksgiving-turkey/</loc>
+    <lastmod>2021-11-07T21:20:08-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/westhaven-cake/</loc>
+    <lastmod>2021-11-07T21:20:08-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2021-11-07T17:27:17-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2021-11-07T17:27:17-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2021-11-07T17:27:17-06:00</lastmod>
   </url>
 </urlset>
