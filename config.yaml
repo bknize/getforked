@@ -3,15 +3,10 @@ languageCode: en-us
 defaultContentLanguage: en
 title: Get Forked
 theme: cupper-hugo-theme
-googleAnalytics: UA-123456789-1
-disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
 taxonomies:
   tag: tags
-
-permalinks:
-  post: /:filename/
 
 imaging:
   quality: 99
@@ -44,7 +39,7 @@ menu:
       url: /
       weight: 1
     - name: Recipes
-      url: /post/
+      url: /recipes/
       weight: 2
     - name: Tags
       url: /tags/
