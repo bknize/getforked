@@ -1,7 +1,7 @@
 ---
 title: "Mary Rooney's Irish Soda Bread"
 date: 2022-09-23
-tags: [kasley, rooney, featured]
+tags: [kasley, rooney]
 ---
 
 ## Dough
