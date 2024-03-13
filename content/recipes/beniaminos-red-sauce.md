@@ -37,7 +37,7 @@ This recipe is modified from Kenji's to be lazier.
 6. Add your anchovies and cheese rinds.
 7. Bring to boil.
 8. Reduce for hours and hours (at least 2), until desired consistency.
-9. Remove carrots, onion, celery, garlic. You can save these for mi
+9. Remove carrots, onion, celery, garlic. You can save these for minestrone.
 10. Pour the remaining tomato juice from the can into the pot, add your lemon juice.
 11. Salt to taste.
 
